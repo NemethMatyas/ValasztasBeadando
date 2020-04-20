@@ -1,6 +1,10 @@
-A 2013.05.13-i központi emelt informatika érettségi programozási (Választás) feladatának megoldása Visual Studio Code fejlesztői környezettel, TypeScript nyelven Node.js-el a szerver oldalon, mivel fájlokat kell írni-olvasni. Források a "ts" mappában.
+Közismereti informatika érettségi
+Választás programozási feladat megoldása
+(2013.05.13 - Emelt szint)
+érettségi feladat megoldása TypeScript nyelven
 
 Teszt herokuapp:
+https://valasztas-ts-node.herokuapp.com/
 
 Fejlesztői környezet telepítése:
 https://github.com/NemethMatyas/ValasztasBeadando
